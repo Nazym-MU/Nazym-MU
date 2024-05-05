@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning iOS and full-stack development.
 - 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/zhiyengaliyeva/]
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an undergraduate student studying in 6 countries.
+- ⚡ Random fact: I am an undergraduate student studying in 6 countries.
 
 <!---
 Nazym-MU/Nazym-MU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
