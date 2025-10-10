@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazym-MU
 - 👀 I’m interested in everything I find interesting: coding, physics, football, 3D modeling, traveling, ...
-- 🌱 I’m currently learning iOS and full-stack development.
+- 🌱 I’m currently doing machine learning, math, quantum physics, and software engineering :)
 - 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/zhiyengaliyeva/]
 - 😄 Pronouns: she/her
 - ⚡ Random fact: I am an undergraduate student studying in 6 countries.
